@@ -1,1 +1,1 @@
-# 935309_MobileApp_PokemonDetail
+# 935309_MobileApp
